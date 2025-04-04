@@ -23,6 +23,9 @@ def filter_and_convert(input_geojson: str, output_file: str):
         (gdf["LUP_OHV_DSGNTN"] == "Limited")
     ]
     
+    # Dissolve polygons by name and designation
+    filtered = filtered.dissolve(by=['OHV_AREA_NM', 'LUP_OHV_DSGNTN', 'OHV_LMTN_TX'], as_index=False)
+    
     # Create output directory if it doesn't exist
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
     
