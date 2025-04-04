@@ -24,8 +24,8 @@ def filter_and_convert(input_geojson: str, output_kml: str):
     # Create output directory if it doesn't exist
     Path(output_kml).parent.mkdir(parents=True, exist_ok=True)
     
-    # Convert to KML
-    filtered.to_file(output_kml, driver='KML')
+    # Convert to KML using LIBKML driver
+    filtered.to_file(output_kml, driver='LIBKML')
 
 def main():
     parser = argparse.ArgumentParser(
