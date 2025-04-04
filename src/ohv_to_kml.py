@@ -30,7 +30,11 @@ def filter_and_convert(input_geojson: str, output_file: str):
     
     # Add each polygon to KML
     for idx, row in filtered.iterrows():
-        pol = kml.newpolygon(name=f"OHV Area {idx}")
+        pol = kml.newpolygon(name=row["OHV_AREA_NM"])
+        
+        # Add description if available
+        if "OHV_LMTN_TX" in row and not pd.isna(row["OHV_LMTN_TX"]):
+            pol.description = row["OHV_LMTN_TX"]
         
         # Get coordinates from the geometry
         if row.geometry.geom_type == 'MultiPolygon':
