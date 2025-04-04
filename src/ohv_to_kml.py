@@ -43,14 +43,14 @@ def filter_and_convert(input_geojson: str, output_file: str):
         
         # Get coordinates from the geometry
         if row.geometry.geom_type == 'MultiPolygon':
-            # Handle multipolygons by using the first polygon
-            coords = row.geometry.geoms[0].exterior.coords
-            centroid = row.geometry.geoms[0].centroid
-        else:
-            coords = row.geometry.exterior.coords
+            # Handle all parts of multipolygons
+            pol.multipol = True
+            for geom in row.geometry.geoms:
+                pol.newpolygon().outerboundaryis = list(geom.exterior.coords)
             centroid = row.geometry.centroid
-            
-        pol.outerboundaryis = list(coords)
+        else:
+            pol.outerboundaryis = list(row.geometry.exterior.coords)
+            centroid = row.geometry.centroid
         
         # Create centroid point
         pnt = kml.newpoint(name=row["OHV_AREA_NM"])
