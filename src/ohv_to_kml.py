@@ -43,14 +43,33 @@ def filter_and_convert(input_geojson: str, output_file: str):
         
         # Get coordinates from the geometry
         if row.geometry.geom_type == 'MultiPolygon':
-            # Handle all parts of multipolygons
-            pol.multipol = True
+            # Handle multipolygons by creating a multigeometry
+            multi = kml.newmultigeometry(name=row["OHV_AREA_NM"])
+            if "OHV_LMTN_TX" in row and not pd.isna(row["OHV_LMTN_TX"]):
+                multi.description = row["OHV_LMTN_TX"]
+            
             for geom in row.geometry.geoms:
-                pol.newpolygon().outerboundaryis = list(geom.exterior.coords)
+                pol = multi.newpolygon()
+                pol.outerboundaryis = list(geom.exterior.coords)
+                # Set polygon style
+                if row["LUP_OHV_DSGNTN"] == "Open":
+                    pol.style.polystyle.color = simplekml.Color.green
+                else:  # Limited
+                    pol.style.polystyle.color = simplekml.Color.yellow
+                pol.style.polystyle.fill = 1
+                pol.style.polystyle.outline = 1
+            
             centroid = row.geometry.centroid
         else:
             pol.outerboundaryis = list(row.geometry.exterior.coords)
             centroid = row.geometry.centroid
+            # Set polygon style
+            if row["LUP_OHV_DSGNTN"] == "Open":
+                pol.style.polystyle.color = simplekml.Color.green
+            else:  # Limited
+                pol.style.polystyle.color = simplekml.Color.yellow
+            pol.style.polystyle.fill = 1
+            pol.style.polystyle.outline = 1
         
         # Create centroid point
         pnt = kml.newpoint(name=row["OHV_AREA_NM"])
@@ -58,15 +77,11 @@ def filter_and_convert(input_geojson: str, output_file: str):
             pnt.description = row["OHV_LMTN_TX"]
         pnt.coords = [(centroid.x, centroid.y)]
         
-        # Set styles
+        # Set point style
         if row["LUP_OHV_DSGNTN"] == "Open":
-            pol.style.polystyle.color = simplekml.Color.green
             pnt.style.iconstyle.color = simplekml.Color.green
         else:  # Limited
-            pol.style.polystyle.color = simplekml.Color.yellow
             pnt.style.iconstyle.color = simplekml.Color.yellow
-        pol.style.polystyle.fill = 1
-        pol.style.polystyle.outline = 1
     
     # Save the KML file
     kml.save(output_file)
