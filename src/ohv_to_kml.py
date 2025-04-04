@@ -2,6 +2,7 @@
 
 import argparse
 import geopandas as gpd
+import fiona
 from pathlib import Path
 
 def filter_and_convert(input_geojson: str, output_file: str):
@@ -24,8 +25,18 @@ def filter_and_convert(input_geojson: str, output_file: str):
     # Create output directory if it doesn't exist
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
     
-    # Convert to output format
-    filtered.to_file(output_file)
+    # Convert to KML format
+    filtered.to_file(output_file, driver='GPKG')
+    # Use ogr2ogr to convert to KML since it has better KML support
+    import subprocess
+    subprocess.run([
+        'ogr2ogr',
+        '-f', 'KML',
+        output_file,
+        output_file.replace('.kml', '.gpkg')
+    ])
+    # Clean up temporary file
+    Path(output_file.replace('.kml', '.gpkg')).unlink()
 
 def main():
     parser = argparse.ArgumentParser(
