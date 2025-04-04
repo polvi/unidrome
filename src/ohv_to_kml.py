@@ -2,20 +2,16 @@
 
 import argparse
 import geopandas as gpd
-import fiona
 from pathlib import Path
 
-def filter_and_convert(input_geojson: str, output_gpx: str):
+def filter_and_convert(input_geojson: str, output_file: str):
     """
-    Filter GeoJSON features by OHV designation and convert to GPX
+    Filter GeoJSON features by OHV designation and convert to output format
     
     Args:
         input_geojson: Path to input GeoJSON file
-        output_gpx: Path to output GPX file
+        output_file: Path to output file
     """
-    # List available drivers
-    print("Available drivers:", fiona.supported_drivers)
-    
     # Read the GeoJSON file
     gdf = gpd.read_file(input_geojson)
     
@@ -26,15 +22,10 @@ def filter_and_convert(input_geojson: str, output_gpx: str):
     ]
     
     # Create output directory if it doesn't exist
-    Path(output_gpx).parent.mkdir(parents=True, exist_ok=True)
+    Path(output_file).parent.mkdir(parents=True, exist_ok=True)
     
-    try:
-        # Convert to GPX
-        filtered.to_file(output_gpx, driver='GPX')
-    except Exception as e:
-        print(f"Error converting file: {e}")
-        print("Available drivers:", fiona.supported_drivers)
-        raise
+    # Convert to output format
+    filtered.to_file(output_file)
 
 def main():
     parser = argparse.ArgumentParser(
@@ -46,14 +37,11 @@ def main():
     )
     parser.add_argument(
         "output",
-        help="Output GPX file path"
+        help="Output file path"
     )
     
     args = parser.parse_args()
-    
-    # Change file extension to .gpx
-    output_path = str(Path(args.output).with_suffix('.gpx'))
-    filter_and_convert(args.input, output_path)
+    filter_and_convert(args.input, args.output)
 
 if __name__ == "__main__":
     main()
