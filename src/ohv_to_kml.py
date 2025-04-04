@@ -2,7 +2,7 @@
 
 import argparse
 import geopandas as gpd
-import fiona
+import simplekml
 from pathlib import Path
 
 def filter_and_convert(input_geojson: str, output_file: str):
@@ -25,18 +25,32 @@ def filter_and_convert(input_geojson: str, output_file: str):
     # Create output directory if it doesn't exist
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
     
-    # Convert to KML format
-    filtered.to_file(output_file, driver='GPKG')
-    # Use ogr2ogr to convert to KML since it has better KML support
-    import subprocess
-    subprocess.run([
-        'ogr2ogr',
-        '-f', 'KML',
-        output_file,
-        output_file.replace('.kml', '.gpkg')
-    ])
-    # Clean up temporary file
-    Path(output_file.replace('.kml', '.gpkg')).unlink()
+    # Create KML file
+    kml = simplekml.Kml()
+    
+    # Add each polygon to KML
+    for idx, row in filtered.iterrows():
+        pol = kml.newpolygon(name=f"OHV Area {idx}")
+        
+        # Get coordinates from the geometry
+        if row.geometry.geom_type == 'MultiPolygon':
+            # Handle multipolygons by using the first polygon
+            coords = row.geometry.geoms[0].exterior.coords
+        else:
+            coords = row.geometry.exterior.coords
+            
+        pol.outerboundaryis = list(coords)
+        
+        # Set style
+        if row["LUP_OHV_DSGNTN"] == "Open":
+            pol.style.polystyle.color = simplekml.Color.green
+        else:  # Limited
+            pol.style.polystyle.color = simplekml.Color.yellow
+        pol.style.polystyle.fill = 1
+        pol.style.polystyle.outline = 1
+    
+    # Save the KML file
+    kml.save(output_file)
 
 def main():
     parser = argparse.ArgumentParser(
