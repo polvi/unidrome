@@ -23,8 +23,8 @@ def filter_and_convert(input_geojson: str, output_file: str):
         (gdf["LUP_OHV_DSGNTN"] == "Limited")
     ]
     
-    # Dissolve polygons by name and designation
-    filtered = filtered.dissolve(by=['OHV_AREA_NM', 'LUP_OHV_DSGNTN', 'OHV_LMTN_TX'], as_index=False)
+    # Dissolve polygons by name only
+    filtered = filtered.dissolve(by=['OHV_AREA_NM'], as_index=False)
     
     # Explode MultiPolygons into individual Polygons
     filtered = filtered.explode(index_parts=True)
