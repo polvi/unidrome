@@ -48,11 +48,15 @@ def filter_and_convert(input_geojson: str, output_file: str):
         # Get coordinates from the geometry - now we only have Polygons after exploding
         pol.outerboundaryis = list(row.geometry.exterior.coords)
         
-        # Set polygon style
+        # Set polygon style with 25% opacity for fill
         if row["LUP_OHV_DSGNTN"] == "Open":
-            pol.style.polystyle.color = simplekml.Color.green
+            # Green with 25% opacity (alpha=64 in hex)
+            pol.style.polystyle.color = simplekml.Color.changealphaint(64, simplekml.Color.green)
+            pol.style.linestyle.color = simplekml.Color.green
         else:  # Limited
-            pol.style.polystyle.color = simplekml.Color.yellow
+            # Yellow with 25% opacity (alpha=64 in hex)
+            pol.style.polystyle.color = simplekml.Color.changealphaint(64, simplekml.Color.yellow)
+            pol.style.linestyle.color = simplekml.Color.yellow
         pol.style.polystyle.fill = 1
         pol.style.polystyle.outline = 1
         
