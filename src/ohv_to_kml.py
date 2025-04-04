@@ -26,6 +26,10 @@ def filter_and_convert(input_geojson: str, output_file: str):
     # Dissolve polygons by name and designation
     filtered = filtered.dissolve(by=['OHV_AREA_NM', 'LUP_OHV_DSGNTN', 'OHV_LMTN_TX'], as_index=False)
     
+    # Explode MultiPolygons into individual Polygons
+    filtered = filtered.explode(index_parts=True)
+    filtered = filtered.reset_index(drop=True)
+    
     # Create output directory if it doesn't exist
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
     
@@ -41,35 +45,19 @@ def filter_and_convert(input_geojson: str, output_file: str):
         if "OHV_LMTN_TX" in row and not pd.isna(row["OHV_LMTN_TX"]):
             pol.description = row["OHV_LMTN_TX"]
         
-        # Get coordinates from the geometry
-        if row.geometry.geom_type == 'MultiPolygon':
-            # Handle multipolygons by creating a multigeometry
-            multi = kml.newmultigeometry(name=row["OHV_AREA_NM"])
-            if "OHV_LMTN_TX" in row and not pd.isna(row["OHV_LMTN_TX"]):
-                multi.description = row["OHV_LMTN_TX"]
-            
-            for geom in row.geometry.geoms:
-                pol = multi.newpolygon()
-                pol.outerboundaryis = list(geom.exterior.coords)
-                # Set polygon style
-                if row["LUP_OHV_DSGNTN"] == "Open":
-                    pol.style.polystyle.color = simplekml.Color.green
-                else:  # Limited
-                    pol.style.polystyle.color = simplekml.Color.yellow
-                pol.style.polystyle.fill = 1
-                pol.style.polystyle.outline = 1
-            
-            centroid = row.geometry.centroid
-        else:
-            pol.outerboundaryis = list(row.geometry.exterior.coords)
-            centroid = row.geometry.centroid
-            # Set polygon style
-            if row["LUP_OHV_DSGNTN"] == "Open":
-                pol.style.polystyle.color = simplekml.Color.green
-            else:  # Limited
-                pol.style.polystyle.color = simplekml.Color.yellow
-            pol.style.polystyle.fill = 1
-            pol.style.polystyle.outline = 1
+        # Get coordinates from the geometry - now we only have Polygons after exploding
+        pol.outerboundaryis = list(row.geometry.exterior.coords)
+        
+        # Set polygon style
+        if row["LUP_OHV_DSGNTN"] == "Open":
+            pol.style.polystyle.color = simplekml.Color.green
+        else:  # Limited
+            pol.style.polystyle.color = simplekml.Color.yellow
+        pol.style.polystyle.fill = 1
+        pol.style.polystyle.outline = 1
+        
+        # Calculate centroid
+        centroid = row.geometry.centroid
         
         # Create centroid point
         pnt = kml.newpoint(name=row["OHV_AREA_NM"])
