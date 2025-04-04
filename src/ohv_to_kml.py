@@ -2,16 +2,20 @@
 
 import argparse
 import geopandas as gpd
+import fiona
 from pathlib import Path
 
-def filter_and_convert(input_geojson: str, output_kml: str):
+def filter_and_convert(input_geojson: str, output_gpx: str):
     """
-    Filter GeoJSON features by OHV designation and convert to KML
+    Filter GeoJSON features by OHV designation and convert to GPX
     
     Args:
         input_geojson: Path to input GeoJSON file
-        output_kml: Path to output KML file
+        output_gpx: Path to output GPX file
     """
+    # List available drivers
+    print("Available drivers:", fiona.supported_drivers)
+    
     # Read the GeoJSON file
     gdf = gpd.read_file(input_geojson)
     
@@ -22,10 +26,15 @@ def filter_and_convert(input_geojson: str, output_kml: str):
     ]
     
     # Create output directory if it doesn't exist
-    Path(output_kml).parent.mkdir(parents=True, exist_ok=True)
+    Path(output_gpx).parent.mkdir(parents=True, exist_ok=True)
     
-    # Convert to KML using LIBKML driver
-    filtered.to_file(output_kml, driver='LIBKML')
+    try:
+        # Convert to GPX
+        filtered.to_file(output_gpx, driver='GPX')
+    except Exception as e:
+        print(f"Error converting file: {e}")
+        print("Available drivers:", fiona.supported_drivers)
+        raise
 
 def main():
     parser = argparse.ArgumentParser(
@@ -37,11 +46,14 @@ def main():
     )
     parser.add_argument(
         "output",
-        help="Output KML file path"
+        help="Output GPX file path"
     )
     
     args = parser.parse_args()
-    filter_and_convert(args.input, args.output)
+    
+    # Change file extension to .gpx
+    output_path = str(Path(args.output).with_suffix('.gpx'))
+    filter_and_convert(args.input, output_path)
 
 if __name__ == "__main__":
     main()
