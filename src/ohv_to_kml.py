@@ -41,9 +41,11 @@ def filter_and_convert(input_geojson: str, output_file: str):
         # Create polygon
         pol = kml.newpolygon(name=row["OHV_AREA_NM"])
         
-        # Add description if available
+        # Add description if available, otherwise use designation
         if "OHV_LMTN_TX" in row and not pd.isna(row["OHV_LMTN_TX"]):
             pol.description = row["OHV_LMTN_TX"]
+        else:
+            pol.description = row["LUP_OHV_DSGNTN"]
         
         # Get coordinates from the geometry - now we only have Polygons after exploding
         pol.outerboundaryis = list(row.geometry.exterior.coords)
@@ -67,6 +69,8 @@ def filter_and_convert(input_geojson: str, output_file: str):
         pnt = kml.newpoint(name=row["OHV_AREA_NM"])
         if "OHV_LMTN_TX" in row and not pd.isna(row["OHV_LMTN_TX"]):
             pnt.description = row["OHV_LMTN_TX"]
+        else:
+            pnt.description = row["LUP_OHV_DSGNTN"]
         pnt.coords = [(centroid.x, centroid.y)]
         
         # Set point style
