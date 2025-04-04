@@ -29,8 +29,9 @@ def filter_and_convert(input_geojson: str, output_file: str):
     # Create KML file
     kml = simplekml.Kml()
     
-    # Add each polygon to KML
+    # Add each polygon and its centroid to KML
     for idx, row in filtered.iterrows():
+        # Create polygon
         pol = kml.newpolygon(name=row["OHV_AREA_NM"])
         
         # Add description if available
@@ -41,16 +42,26 @@ def filter_and_convert(input_geojson: str, output_file: str):
         if row.geometry.geom_type == 'MultiPolygon':
             # Handle multipolygons by using the first polygon
             coords = row.geometry.geoms[0].exterior.coords
+            centroid = row.geometry.geoms[0].centroid
         else:
             coords = row.geometry.exterior.coords
+            centroid = row.geometry.centroid
             
         pol.outerboundaryis = list(coords)
         
-        # Set style
+        # Create centroid point
+        pnt = kml.newpoint(name=row["OHV_AREA_NM"])
+        if "OHV_LMTN_TX" in row and not pd.isna(row["OHV_LMTN_TX"]):
+            pnt.description = row["OHV_LMTN_TX"]
+        pnt.coords = [(centroid.x, centroid.y)]
+        
+        # Set styles
         if row["LUP_OHV_DSGNTN"] == "Open":
             pol.style.polystyle.color = simplekml.Color.green
+            pnt.style.iconstyle.color = simplekml.Color.green
         else:  # Limited
             pol.style.polystyle.color = simplekml.Color.yellow
+            pnt.style.iconstyle.color = simplekml.Color.yellow
         pol.style.polystyle.fill = 1
         pol.style.polystyle.outline = 1
     
