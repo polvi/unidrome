@@ -8,3 +8,4 @@
 *.kmz
 *.gpkg
 __pycache__
+.aider*
