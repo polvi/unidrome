@@ -35,7 +35,7 @@ class FAA:
             print(f"Failed to download or handle the file: {e}")
 
     def manage_data_files(self, temp_directory):
-        files = ["APT_BASE.csv", "APT_RWY.csv"]
+        files = ["APT_BASE.csv", "APT_RWY.csv", "ATC_SVC.csv"]
         # Copy required CSV files to the cycle directory
         for filename in files:
             src = os.path.join(temp_directory, filename)
