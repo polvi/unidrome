@@ -1,0 +1,8 @@
+{
+    "name": "North America Airports of Entry (CBP/CBSA)",
+    "abbreviation": "NA.AOE",
+    "version": 1.0,
+    "effectiveDate": "20260615T000000",
+    "expirationDate": "20270615T000000",
+    "organizationName": "unidrome"
+}

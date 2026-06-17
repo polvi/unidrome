@@ -1,0 +1,2355 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>CBP Fact Sheet Airports</name>
+    <Placemark>
+      <name>4MN2</name>
+      <description>OAK — ANGLE INLET, MN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-94.874963,49.3142465,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K0S7</name>
+      <description>DOROTHY SCOTT INTL — OROVILLE, WA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-119.41197222,48.95897222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K12D</name>
+      <description>TOWER MUNI — TOWER, MN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-92.28606666,47.81815555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K1S1</name>
+      <description>ECKHART INTL — PORTHILL, ID
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-116.50205555,48.99047222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K5T9</name>
+      <description>MAVERICK COUNTY MEML INTL — EAGLE PASS, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-100.51346777,28.85709277,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KABE</name>
+      <description>LEHIGH VALLEY INTL — ALLENTOWN, PA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-75.44040583,40.65236277,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KABQ</name>
+      <description>ALBUQUERQUE INTL SUNPORT — ALBUQUERQUE, NM
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-106.60826216,35.03893155,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KADS</name>
+      <description>ADDISON — DALLAS, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-96.83645305,32.96855416,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KAFW</name>
+      <description>PEROT FLD/FORT WORTH ALLIANCE — FORT WORTH, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-97.31942944,32.99030666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KALB</name>
+      <description>ALBANY INTL — ALBANY, NY
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-73.80198,42.74911611,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KAMA</name>
+      <description>RICK HUSBAND AMARILLO INTL — AMARILLO, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-101.70591666,35.21936111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KANJ</name>
+      <description>SAULT STE MARIE MUNI/SANDERSON FLD — SAULT STE MARIE, MI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-84.36838888,46.47922222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KAPA</name>
+      <description>CENTENNIAL — DENVER, CO
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-104.84929305,39.57011861,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KAPF</name>
+      <description>NAPLES MUNI — NAPLES, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-81.77563919,26.1524408,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KART</name>
+      <description>WATERTOWN INTL — WATERTOWN, NY
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-76.01941666,43.99183333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KATL</name>
+      <description>HARTSFIELD/JACKSON ATLANTA INTL — ATLANTA, GA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-84.427864,33.63669961,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KATW</name>
+      <description>APPLETON INTL — APPLETON, WI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-88.51907222,44.25809305,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KAUS</name>
+      <description>AUSTIN-BERGSTROM INTL — AUSTIN, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-97.66987611,30.19452722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KAVP</name>
+      <description>WILKES-BARRE/SCRANTON INTL — WILKES-BARRE/SCRANTON, PA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-75.72338888,41.33847222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBCT</name>
+      <description>BOCA RATON — BOCA RATON, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-80.10769638,26.37848555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBDE</name>
+      <description>BAUDETTE INTL — BAUDETTE, MN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-94.61105555,48.73025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBDL</name>
+      <description>BRADLEY INTL — WINDSOR LOCKS, CT
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-72.68431583,41.93903222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBDR</name>
+      <description>BRIDGEPORT/SIKORSKY — BRIDGEPORT, CT
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-73.12617583,41.16348083,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBED</name>
+      <description>LAURENCE G HANSCOM FLD — BEDFORD, MA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-71.289,42.46994444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBFI</name>
+      <description>BOEING FLD/KING COUNTY INTL — SEATTLE, WA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-122.30194444,47.52997222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBFM</name>
+      <description>MOBILE INTL — MOBILE, AL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-88.06809083,30.62678055,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBGR</name>
+      <description>BANGOR INTL — BANGOR, ME
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-68.82813888,44.80744444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBHM</name>
+      <description>BIRMINGHAM-SHUTTLESWORTH INTL — BIRMINGHAM, AL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-86.75230555,33.56388888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBJC</name>
+      <description>ROCKY MOUNTAIN METRO — DENVER, CO
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-105.11719444,39.90880555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBLI</name>
+      <description>BELLINGHAM INTL — BELLINGHAM, WA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-122.53752777,48.79269444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBNA</name>
+      <description>NASHVILLE INTL — NASHVILLE, TN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-86.67818055,36.124475,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBOI</name>
+      <description>BOISE AIR TRML/GOWEN FLD — BOISE, ID
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-116.22286111,43.56436111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBOS</name>
+      <description>GENERAL EDWARD LAWRENCE LOGAN INTL — BOSTON, MA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-71.00638888,42.36294444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBPT</name>
+      <description>JACK BROOKS RGNL — BEAUMONT/PORT ARTHUR, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-94.02069888,29.95083111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBRO</name>
+      <description>BROWNSVILLE/SOUTH PADRE ISLAND INTL — BROWNSVILLE, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-97.426,25.90613888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBTL</name>
+      <description>BATTLE CREEK EXEC AT KELLOGG FLD — BATTLE CREEK, MI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-85.25008944,42.30647388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBTR</name>
+      <description>BATON ROUGE METRO, RYAN FLD — BATON ROUGE, LA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-91.14988888,30.53291666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBTV</name>
+      <description>PATRICK LEAHY BURLINGTON INTL — BURLINGTON, VT
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-73.15327611,44.471955,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBVS</name>
+      <description>SKAGIT RGNL — BURLINGTON/MOUNT VERNON, WA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-122.42168944,48.47052611,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBVY</name>
+      <description>BEVERLY RGNL — BEVERLY, MA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-70.91614444,42.58414138,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBZN</name>
+      <description>BOZEMAN YELLOWSTONE INTL — BOZEMAN, MT
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-111.15026027,45.77723577,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCAE</name>
+      <description>COLUMBIA METRO — COLUMBIA, SC
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-81.11953555,33.93883805,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCAK</name>
+      <description>AKRON-CANTON RGNL — AKRON, OH
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-81.44363888,40.91505555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCEF</name>
+      <description>WESTOVER ARB/METRO — SPRINGFIELD/CHICOPEE, MA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-72.53478666,42.19401555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCHA</name>
+      <description>LOVELL FLD — CHATTANOOGA, TN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-85.20355555,35.03519444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCHS</name>
+      <description>CHARLESTON AFB/INTL — CHARLESTON, SC
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-80.04052777,32.89863888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCIU</name>
+      <description>CHIPPEWA COUNTY INTL — SAULT STE MARIE, MI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-84.47238416,46.25075166,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCLM</name>
+      <description>WILLIAM R FAIRCHILD INTL — PORT ANGELES, WA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-123.49969444,48.12019444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCMH</name>
+      <description>JOHN GLENN COLUMBUS INTL — COLUMBUS, OH
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-82.89215916,39.99694666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCMI</name>
+      <description>UNIVERSITY OF ILLINOIS/WILLARD — CHAMPAIGN/URBANA, IL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-88.27653916,40.03856083,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCOE</name>
+      <description>COEUR D'ALENE — COEUR D'ALENE, ID
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-116.81958333,47.77430555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCOS</name>
+      <description>CITY OF COLORADO SPRINGS MUNI — COLORADO SPRINGS, CO
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-104.70077638,38.80581666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCPR</name>
+      <description>CASPER/NATRONA COUNTY INTL — CASPER, WY
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-106.46364861,42.90587472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCQF</name>
+      <description>H L SONNY CALLAHAN — FAIRHOPE, AL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-87.87702777,30.4605,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCRQ</name>
+      <description>MC CLELLAN-PALOMAR — CARLSBAD, CA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-117.28008333,33.12825,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCRW</name>
+      <description>WEST VIRGINIA INTL YEAGER — CHARLESTON, WV
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-81.59289361,38.37601305,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCTB</name>
+      <description>CUT BANK INTL — CUT BANK, MT
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-112.37615077,48.60835475,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCVG</name>
+      <description>CINCINNATI/NORTHERN KENTUCKY INTL — COVINGTON, KY
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-84.66782083,39.0488375,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCXL</name>
+      <description>CALEXICO INTL — CALEXICO, CA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-115.51758333,32.66744444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KDAB</name>
+      <description>DAYTONA BEACH INTL — DAYTONA BEACH, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-81.05804222,29.17990888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KDAL</name>
+      <description>DALLAS LOVE FLD — DALLAS, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-96.85087666,32.84594472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KDAY</name>
+      <description>JAMES M COX DAYTON INTL — DAYTON, OH
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-84.21941222,39.90225222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KDEN</name>
+      <description>DENVER INTL — DENVER, CO
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-104.67316666,39.86166666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KDET</name>
+      <description>COLEMAN A YOUNG MUNI — DETROIT, MI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-83.01059777,42.41236361,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KDFW</name>
+      <description>DALLAS-FORT WORTH INTL — DALLAS-FORT WORTH, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-97.03769472,32.89723305,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KDLH</name>
+      <description>DULUTH INTL — DULUTH, MN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-92.19323722,46.84206975,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KDNA</name>
+      <description>DONA ANA COUNTY INTL JETPORT — SANTA TERESA, NM
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-106.70325,31.88044444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KDPA</name>
+      <description>DUPAGE — CHICAGO/WEST CHICAGO, IL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-88.247995,41.90705305,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KDRT</name>
+      <description>DEL RIO INTL — DEL RIO, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-100.92715694,29.37420694,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KDSM</name>
+      <description>DES MOINES INTL — DES MOINES, IA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-93.66307222,41.53397277,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KDTW</name>
+      <description>DETROIT METRO WAYNE COUNTY — DETROIT, MI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-83.35339333,42.21243111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KEBG</name>
+      <description>SOUTH TEXAS INTL AT EDINBURG — EDINBURG, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-98.12222222,26.44166666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KEGE</name>
+      <description>EAGLE COUNTY RGNL — EAGLE, CO
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-106.91594444,39.64275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KELP</name>
+      <description>EL PASO INTL — EL PASO, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-106.37636111,31.80733333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KEPM</name>
+      <description>EASTPORT MUNI — EASTPORT, ME
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-67.01269444,44.91011111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KERI</name>
+      <description>ERIE INTL/TOM RIDGE FLD — ERIE, PA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-80.17394444,42.08308333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KEWB</name>
+      <description>NEW BEDFORD RGNL — NEW BEDFORD, MA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-70.95783611,41.67656611,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KEWR</name>
+      <description>NEWARK LIBERTY INTL — NEWARK, NJ
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-74.16868777,40.69248055,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KEYW</name>
+      <description>KEY WEST INTL — KEY WEST, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-81.75995583,24.55611972,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KFAR</name>
+      <description>HECTOR INTL — FARGO, ND
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-96.81575,46.92063888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KFHR</name>
+      <description>FRIDAY HARBOR — FRIDAY HARBOR, WA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-123.02436111,48.52197222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KFLL</name>
+      <description>FORT LAUDERDALE/HOLLYWOOD INTL — FORT LAUDERDALE, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-80.14969444,26.07166666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KFOK</name>
+      <description>FRANCIS S GABRESKI — WESTHAMPTON BEACH, NY
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-72.63181194,40.84361861,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KFPR</name>
+      <description>TREASURE COAST INTL — FORT PIERCE, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-80.37263888,27.49747222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KFRG</name>
+      <description>REPUBLIC — FARMINGDALE, NY
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-73.41342083,40.72927416,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KFSD</name>
+      <description>JOE FOSS FLD — SIOUX FALLS, SD
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-96.74192527,43.58201805,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KFTW</name>
+      <description>FORT WORTH MEACHAM INTL — FORT WORTH, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-97.36245,32.81977027,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KFTY</name>
+      <description>FULTON COUNTY EXEC/CHARLIE BROWN FLD — ATLANTA, GA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-84.52070752,33.78011922,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KFWA</name>
+      <description>FORT WAYNE INTL — FORT WAYNE, IN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-85.19516666,40.97847222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KFXE</name>
+      <description>FORT LAUDERDALE EXEC — FORT LAUDERDALE, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-80.17070627,26.19727936,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KGAO</name>
+      <description>SOUTH LAFOURCHE LEONARD MILLER JR — GALLIANO, LA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-90.26111111,29.44111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KGEG</name>
+      <description>SPOKANE INTL — SPOKANE, WA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-117.53522222,47.61902777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KGFK</name>
+      <description>GRAND FORKS INTL — GRAND FORKS, ND
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-97.17569166,47.94786833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KGON</name>
+      <description>GROTON-NEW LONDON — GROTON (NEW LONDON), CT
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-72.04513888,41.33005555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KGPI</name>
+      <description>GLACIER PARK INTL — KALISPELL, MT
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-114.256,48.3105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KGRB</name>
+      <description>GREEN BAY/AUSTIN STRAUBEL INTL — GREEN BAY, WI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-88.12971333,44.48463361,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KGRR</name>
+      <description>GERALD R FORD INTL — GRAND RAPIDS, MI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-85.52280555,42.88083333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KGSO</name>
+      <description>PIEDMONT TRIAD INTL — GREENSBORO, NC
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-79.94112277,36.10132666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KGSP</name>
+      <description>GREENVILLE SPARTANBURG INTL — GREER, SC
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-82.21885944,34.89567111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KGTF</name>
+      <description>GREAT FALLS INTL — GREAT FALLS, MT
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-111.37027941,47.48229927,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KGYY</name>
+      <description>GARY/CHICAGO INTL — GARY/CHICAGO, IN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-87.41452777,41.61725,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KH28</name>
+      <description>WHETSTONE INTL — PORT OF DEL BONITA, MT
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-112.79258083,48.99998972,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KHEF</name>
+      <description>MANASSAS RGNL/HARRY P DAVIS FLD — WASHINGTON, DC
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-77.51510472,38.72102472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KHIO</name>
+      <description>PORTLAND-HILLSBORO — PORTLAND, OR
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-122.95072188,45.54212175,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KHLN</name>
+      <description>HELENA RGNL — HELENA, MT
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-111.98327777,46.60672222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KHOU</name>
+      <description>WILLIAM P HOBBY — HOUSTON, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-95.27723158,29.64579983,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KHPN</name>
+      <description>WESTCHESTER COUNTY — WHITE PLAINS, NY
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-73.70756611,41.06695305,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KHQM</name>
+      <description>BOWERMAN FLD — HOQUIAM, WA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-123.93655555,46.97119444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KHSV</name>
+      <description>HUNTSVILLE INTL-CARL T JONES FLD — HUNTSVILLE, AL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-86.77505416,34.63719694,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KHUM</name>
+      <description>HOUMA-TERREBONNE — HOUMA, LA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-90.66042666,29.56650222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KIAD</name>
+      <description>WASHINGTON DULLES INTL — WASHINGTON, DC
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-77.45992861,38.94745638,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KIAH</name>
+      <description>GEORGE BUSH INTCNTL/HOUSTON — HOUSTON, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-95.3414425,29.98443527,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KICT</name>
+      <description>WICHITA DWIGHT D EISENHOWER NTL — WICHITA, KS
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-97.43304277,37.6499525,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KILG</name>
+      <description>NEW CASTLE — WILMINGTON, DE
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-75.606635,39.67870972,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KIND</name>
+      <description>INDIANAPOLIS INTL — INDIANAPOLIS, IN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-86.29463888,39.71730555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KINL</name>
+      <description>FALLS INTL/EINARSON FLD — INTERNATIONAL FALLS, MN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-93.40217916,48.56558777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KINT</name>
+      <description>SMITH REYNOLDS — WINSTON SALEM, NC
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-80.22198772,36.1337138,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KISP</name>
+      <description>LONG ISLAND MAC ARTHUR — NEW YORK, NY
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-73.10066505,40.79613569,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KIWA</name>
+      <description>MESA GATEWAY — PHOENIX, AZ
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-111.65545916,33.30782388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KJAN</name>
+      <description>JACKSON-MEDGAR WILEY EVERS INTL — JACKSON, MS
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-90.07588888,32.31116666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KJFK</name>
+      <description>JOHN F KENNEDY INTL — NEW YORK, NY
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-73.77869222,40.63992805,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KJKA</name>
+      <description>GULF SHORES INTL/JACK EDWARDS FLD — GULF SHORES, AL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-87.67177777,30.28963888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLAL</name>
+      <description>LAKELAND LINDER INTL — LAKELAND, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-82.019,27.98763888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLAN</name>
+      <description>CAPITAL REGION INTL — LANSING, MI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-84.58620555,42.7786475,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLAS</name>
+      <description>HARRY REID INTL — LAS VEGAS, NV
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-115.15244861,36.08034277,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLAX</name>
+      <description>LOS ANGELES INTL — LOS ANGELES, CA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-118.40804861,33.94249638,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLBB</name>
+      <description>LUBBOCK PRESTON SMITH INTL — LUBBOCK, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-101.82055555,33.66366666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLEE</name>
+      <description>LEESBURG INTL — LEESBURG, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-81.8084175,28.82289805,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLEX</name>
+      <description>BLUE GRASS — LEXINGTON, KY
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-84.60861722,38.03674166,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLFT</name>
+      <description>LAFAYETTE RGNL/PAUL FOURNET FLD — LAFAYETTE, LA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-91.98775388,30.20502666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLGA</name>
+      <description>LAGUARDIA — NEW YORK, NY
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-73.87260555,40.77724222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLIT</name>
+      <description>BILL AND HILLARY CLINTON NTL/ADAMS FLD — LITTLE ROCK, AR
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-92.22477722,34.72944138,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLRD</name>
+      <description>LAREDO INTL — LAREDO, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-99.46158333,27.54419444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLUK</name>
+      <description>CINCINNATI MUNI/LUNKEN FLD — CINCINNATI, OH
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-84.41760583,39.10297722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLWM</name>
+      <description>LAWRENCE MUNI — LAWRENCE, MA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-71.12353333,42.71704222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMAF</name>
+      <description>MIDLAND INTL AIR AND SPACE PORT — MIDLAND, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-102.20191666,31.94252777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMBS</name>
+      <description>MBS INTL — SAGINAW, MI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-84.07963583,43.53292694,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMCI</name>
+      <description>KANSAS CITY INTL — KANSAS CITY, MO
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-94.71388888,39.29761111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMCO</name>
+      <description>ORLANDO INTL — ORLANDO, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-81.309,28.42938888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMDT</name>
+      <description>HARRISBURG INTL — HARRISBURG, PA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-76.76261916,40.19319166,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMDW</name>
+      <description>CHICAGO MIDWAY INTL — CHICAGO, IL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-87.75272861,41.78564313,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMEM</name>
+      <description>FREDERICK W SMITH INTL/MEMPHIS — MEMPHIS, TN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-89.97667916,35.04241138,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMFE</name>
+      <description>MC ALLEN INTL — MC ALLEN, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-98.23861111,26.17583333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMHT</name>
+      <description>MANCHESTER BOSTON RGNL — MANCHESTER, NH
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-71.43575,42.93280555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMIA</name>
+      <description>MIAMI INTL — MIAMI, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-80.29011583,25.79536111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMKC</name>
+      <description>KANSAS CITY DOWNTOWN/WHEELER FLD — KANSAS CITY, MO
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-94.59282333,39.122935,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMKE</name>
+      <description>GENERAL MITCHELL INTL — MILWAUKEE, WI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-87.89706444,42.94693194,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMLB</name>
+      <description>MELBOURNE ORLANDO INTL — MELBOURNE, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-80.64525,28.10275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMLI</name>
+      <description>QUAD CITIES INTL — MOLINE, IL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-90.50777,41.44820916,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMMU</name>
+      <description>MORRISTOWN MUNI — MORRISTOWN, NJ
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-74.41488861,40.79933833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMOB</name>
+      <description>MOBILE RGNL — MOBILE, AL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-88.24283333,30.69141666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMOT</name>
+      <description>MINOT INTL — MINOT, ND
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-101.27802777,48.25763888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMRH</name>
+      <description>MICHAEL J SMITH FLD — BEAUFORT, NC
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-76.66035472,34.73375861,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMSP</name>
+      <description>MINNEAPOLIS-ST PAUL INTL/WOLD-CHAMBERLAIN — MINNEAPOLIS, MN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-93.22177777,44.88197222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMSY</name>
+      <description>LOUIS ARMSTRONG NEW ORLEANS INTL — NEW ORLEANS, LA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-90.2590275,29.99327222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMTN</name>
+      <description>MARTIN STATE — BALTIMORE, MD
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-76.4137625,39.32565944,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMWH</name>
+      <description>GRANT COUNTY INTL — MOSES LAKE, WA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-119.31913888,47.20858333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMYR</name>
+      <description>MYRTLE BEACH INTL — MYRTLE BEACH, SC
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-78.92832138,33.67974111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KNEW</name>
+      <description>LAKEFRONT — NEW ORLEANS, LA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-90.02825,30.04241666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KNYL</name>
+      <description>YUMA MCAS/YUMA INTL — YUMA, AZ
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-114.60598722,32.65657388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KOAK</name>
+      <description>OAKLAND SAN FRANCISCO BAY — OAKLAND, CA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-122.22115055,37.72126138,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KOKC</name>
+      <description>OKC WILL ROGERS INTL — OKLAHOMA CITY, OK
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-97.60076555,35.39307277,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KOLS</name>
+      <description>NOGALES INTL — NOGALES, AZ
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-110.84788888,31.41772222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KOMA</name>
+      <description>EPPLEY AIRFIELD — OMAHA, NE
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-95.89405555,41.30316666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KOPF</name>
+      <description>MIAMI-OPA LOCKA EXEC — MIAMI, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-80.27822222,25.90741666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KORD</name>
+      <description>CHICAGO O'HARE INTL — CHICAGO, IL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-87.90814972,41.97694027,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KORF</name>
+      <description>NORFOLK INTL — NORFOLK, VA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-76.19886583,36.89563111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KORL</name>
+      <description>ORLANDO EXEC — ORLANDO, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-81.33293,28.54546166,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KOXC</name>
+      <description>WATERBURY-OXFORD — OXFORD, CT
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-73.1351825,41.47828055,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPAE</name>
+      <description>SEATTLE PAINE FLD INTL — EVERETT, WA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-122.28209388,47.90731805,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPBI</name>
+      <description>PALM BEACH INTL — WEST PALM BEACH, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-80.09559194,26.68316166,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPCW</name>
+      <description>ERIE-OTTAWA INTL — PORT CLINTON, OH
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-82.86948666,41.51627055,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPDK</name>
+      <description>DEKALB-PEACHTREE — ATLANTA, GA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-84.30203055,33.87600194,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPDX</name>
+      <description>PORTLAND INTL — PORTLAND, OR
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-122.59686941,45.58870886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPHL</name>
+      <description>PHILADELPHIA INTL — PHILADELPHIA, PA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-75.24066305,39.87208388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPHN</name>
+      <description>ST CLAIR COUNTY INTL — PORT HURON, MI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-82.52884972,42.91095861,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPHX</name>
+      <description>PHOENIX SKY HARBOR INTL — PHOENIX, AZ
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-112.01158333,33.43427777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPIA</name>
+      <description>GENERAL DOWNING - PEORIA INTL — PEORIA, IL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-89.69325,40.66419444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPIB</name>
+      <description>HATTIESBURG/LAUREL RGNL — HATTIESBURG-LAUREL, MS
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-89.3370575,31.46714638,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPIE</name>
+      <description>ST PETE-CLEARWATER INTL — ST PETERSBURG-CLEARWATER, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-82.68651,27.90863361,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPIT</name>
+      <description>PITTSBURGH INTL — PITTSBURGH, PA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-80.23269444,40.49141666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPNN</name>
+      <description>PRINCETON MUNI — PRINCETON, ME
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-67.56439888,45.20065972,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPNS</name>
+      <description>PENSACOLA INTL — PENSACOLA, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-87.18661111,30.47341666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPQI</name>
+      <description>PRESQUE ISLE INTL — PRESQUE ISLE, ME
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-68.04479138,46.68896388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPRS</name>
+      <description>PRESIDIO LELY INTL — PRESIDIO, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-104.36149444,29.6342125,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPSM</name>
+      <description>PORTSMOUTH INTL AT PEASE — PORTSMOUTH, NH
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-70.82327777,43.07794444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPSP</name>
+      <description>PALM SPRINGS INTL — PALM SPRINGS, CA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-116.50669416,33.82966972,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPTK</name>
+      <description>OAKLAND COUNTY INTL — PONTIAC, MI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-83.42050563,42.66563619,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPVD</name>
+      <description>RHODE ISLAND TF GREEN INTL — PROVIDENCE, RI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-71.42772222,41.72233333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPWK</name>
+      <description>CHICAGO EXEC — CHICAGO/PROSPECT HEIGHTS/WHEELING, IL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-87.90154083,42.11427944,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KPWM</name>
+      <description>PORTLAND INTL JETPORT — PORTLAND, ME
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-70.30861636,43.6456435,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KRDU</name>
+      <description>RALEIGH-DURHAM INTL — RALEIGH/DURHAM, NC
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-78.78747222,35.87763888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KRFD</name>
+      <description>CHICAGO/ROCKFORD INTL — CHICAGO/ROCKFORD, IL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-89.09722222,42.19536111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KRIC</name>
+      <description>RICHMOND INTL — RICHMOND, VA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-77.31973861,37.50518111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KRNO</name>
+      <description>RENO/TAHOE INTL — RENO, NV
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-119.76811111,39.49911111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KRNT</name>
+      <description>RENTON MUNI — RENTON, WA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-122.21575,47.49313888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KROC</name>
+      <description>FREDERICK DOUGLASS/GREATER ROCHESTER INTL — ROCHESTER, NY
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-77.67186888,43.11914361,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KROG</name>
+      <description>ROGERS EXEC - CARTER FLD — ROGERS, AR
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-94.10697222,36.37241666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KRST</name>
+      <description>ROCHESTER INTL — ROCHESTER, MN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-92.50002777,43.90827777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KRSW</name>
+      <description>SOUTHWEST FLORIDA INTL — FORT MYERS, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-81.755155,26.53616388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KRYY</name>
+      <description>COBB COUNTY INTL/MCCOLLUM FLD — ATLANTA, GA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-84.59702777,34.01316666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSAN</name>
+      <description>SAN DIEGO INTL — SAN DIEGO, CA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-117.18966333,32.73356277,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSAT</name>
+      <description>SAN ANTONIO INTL — SAN ANTONIO, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-98.46905694,29.53395833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSAV</name>
+      <description>SAVANNAH/HILTON HEAD INTL — SAVANNAH, GA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-81.20213888,32.12758333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSBD</name>
+      <description>SAN BERNARDINO INTL — SAN BERNARDINO, CA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-117.23488888,34.09536111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSBN</name>
+      <description>SOUTH BEND INTL — SOUTH BEND, IN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-86.3173375,41.70822388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSDF</name>
+      <description>LOUISVILLE MUHAMMAD ALI INTL — LOUISVILLE, KY
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-85.73649361,38.174085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSDL</name>
+      <description>SCOTTSDALE — SCOTTSDALE, AZ
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-111.91053083,33.62288083,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSDM</name>
+      <description>BROWN FLD MUNI — SAN DIEGO, CA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-116.98016666,32.57227777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSEA</name>
+      <description>SEATTLE-TACOMA INTL — SEATTLE, WA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-122.31177777,47.44988888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSFB</name>
+      <description>ORLANDO SANFORD INTL — ORLANDO, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-81.23491361,28.77717805,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSFF</name>
+      <description>FELTS FLD — SPOKANE, WA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-117.32242611,47.68294055,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSFO</name>
+      <description>SAN FRANCISCO INTL — SAN FRANCISCO, CA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-122.37541666,37.61880555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSGF</name>
+      <description>SPRINGFIELD-BRANSON NTL — SPRINGFIELD, MO
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-93.38862694,37.24566138,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSGJ</name>
+      <description>ST AUGUSTINE — ST AUGUSTINE, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-81.33972916,29.95925027,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSHV</name>
+      <description>SHREVEPORT RGNL — SHREVEPORT, LA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-93.82604,32.44651527,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSJC</name>
+      <description>NORMAN Y MINETA SAN JOSE INTL — SAN JOSE, CA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-121.92862055,37.36299472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSLC</name>
+      <description>SALT LAKE CITY INTL — SALT LAKE CITY, UT
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-111.97777333,40.78839333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSRQ</name>
+      <description>SARASOTA/BRADENTON INTL — SARASOTA/BRADENTON, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-82.55438888,27.39544444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSSI</name>
+      <description>ST SIMONS ISLAND — ST SIMONS ISLAND, GA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-81.39105972,31.15196638,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSTL</name>
+      <description>ST LOUIS LAMBERT INTL — ST LOUIS, MO
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-90.37002572,38.74869822,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSTP</name>
+      <description>ST PAUL DOWNTOWN HOLMAN FLD — ST PAUL, MN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-93.06035388,44.93461527,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSUA</name>
+      <description>WITHAM FLD — STUART, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-80.22129333,27.18169916,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSUS</name>
+      <description>SPIRIT OF ST LOUIS — ST LOUIS, MO
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-90.65204666,38.66211722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSWF</name>
+      <description>NEW YORK STEWART INTL — NEW YORK, NY
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-74.10483333,41.50411111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSYR</name>
+      <description>SYRACUSE HANCOCK INTL — SYRACUSE, NY
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-76.10632055,43.11118138,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KTEB</name>
+      <description>TETERBORO — TETERBORO, NJ
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-74.06083333,40.85010194,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KTKI</name>
+      <description>MCKINNEY NTL — DALLAS, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-96.58876666,33.17706527,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KTMB</name>
+      <description>MIAMI EXEC — MIAMI, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-80.43322461,25.64756372,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KTOL</name>
+      <description>EUGENE F KRANZ TOLEDO EXPRESS — TOLEDO, OH
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-83.80782666,41.58681666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KTPA</name>
+      <description>TAMPA INTL — TAMPA, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-82.5332475,27.97546944,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KTUL</name>
+      <description>TULSA INTL — TULSA, OK
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-95.88810527,36.19839333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KTUS</name>
+      <description>TUCSON INTL — TUCSON, AZ
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-110.9414625,32.11707027,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KTXW</name>
+      <description>MID VALLEY — WESLACO, TX
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-97.97400638,26.1787075,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KTYS</name>
+      <description>MC GHEE TYSON — KNOXVILLE, TN
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-83.99406722,35.81109111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KUGN</name>
+      <description>WAUKEGAN NTL — CHICAGO/WAUKEGAN, IL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-87.86791611,42.42214861,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KVCV</name>
+      <description>SOUTHERN CALIFORNIA LOGISTICS — VICTORVILLE, CA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-117.38266222,34.59552611,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KVNY</name>
+      <description>VAN NUYS — VAN NUYS, CA
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-118.48997222,34.20980555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KVRB</name>
+      <description>VERO BEACH RGNL — VERO BEACH, FL
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-80.41795416,27.655555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KXWA</name>
+      <description>WILLISTON BASIN INTL — WILLISTON, ND
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-103.75055666,48.25978361,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KYIP</name>
+      <description>WILLOW RUN — DETROIT, MI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-83.53146111,42.24027388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PAFA</name>
+      <description>FAIRBANKS INTL — FAIRBANKS, AK
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-147.85666666,64.81535555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PAGY</name>
+      <description>SKAGWAY — SKAGWAY, AK
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-135.31685972,59.4602,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PAJN</name>
+      <description>JUNEAU INTL — JUNEAU, AK
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-134.57847052,58.3547118,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PAKT</name>
+      <description>KETCHIKAN INTL — KETCHIKAN, AK
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-131.71122222,55.35408333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PANC</name>
+      <description>TED STEVENS ANCHORAGE INTL — ANCHORAGE, AK
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-149.9981375,61.17408472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PAOR</name>
+      <description>NORTHWAY — NORTHWAY, AK
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-141.92808333,62.96116666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PHKO</name>
+      <description>ELLISON ONIZUKA KONA INTL AT KEAHOLE — KAILUA-KONA, HI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-156.04563111,19.738765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PHLI</name>
+      <description>LIHUE — LIHUE, HI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-159.33895777,21.97598333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PHNL</name>
+      <description>DANIEL K INOUYE INTL — HONOLULU, HI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-157.92025027,21.31782472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PHOG</name>
+      <description>KAHULUI — KAHULUI, HI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-156.43045861,20.89864861,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PHTO</name>
+      <description>HILO INTL — HILO, HI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-155.04847027,19.72026222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TIST</name>
+      <description>CYRIL E KING — CHARLOTTE AMALIE, VI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-64.97333333,18.33730555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TISX</name>
+      <description>HENRY E ROHLSEN — CHRISTIANSTED, VI
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-64.8019825,17.70153694,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TJBQ</name>
+      <description>RAFAEL HERNANDEZ — AGUADILLA, PR
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-67.12944166,18.49485222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TJCP</name>
+      <description>BENJAMIN RIVERA NORIEGA — ISLA DE CULEBRA, PR
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-65.30388888,18.31297222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TJIG</name>
+      <description>FERNANDO LUIS RIBAS DOMINICCI — SAN JUAN, PR
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-66.09847222,18.45677777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TJPS</name>
+      <description>MERCEDITA — PONCE, PR
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-66.56452777,18.00877777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TJRV</name>
+      <description>JOSE APONTE DE LA TORRE — CEIBA, PR
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-65.64342444,18.24511222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TJSJ</name>
+      <description>LUIS MUNOZ MARIN INTL — SAN JUAN, PR
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-66.00213333,18.43939916,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TJVQ</name>
+      <description>ANTONIO RIVERA RODRIGUEZ — ISLA DE VIEQUES, PR
+
+CBP General Aviation Airport Fact Sheet attached (tap to open).</description>
+      <Point>
+        <coordinates>-65.49361111,18.13480555,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

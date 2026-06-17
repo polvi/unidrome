@@ -1,0 +1,1330 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Canada Airports of Entry (CBSA)</name>
+    <Placemark>
+      <name>Airdrie Air Park</name>
+      <description><![CDATA[<b>Airdrie Air Park</b><br/>AB<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=137068544">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-113.93585,51.27073,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calgary International Airport</name>
+      <description><![CDATA[<b>Calgary International Airport</b><br/>AB<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=631">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-114.004616,51.130771,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calgary/Springbank Airport</name>
+      <description><![CDATA[<b>Calgary/Springbank Airport</b><br/>AB<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=633">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-114.37,51.1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cooking Lake Airport (Edmonton)</name>
+      <description><![CDATA[<b>Cooking Lake Airport (Edmonton)</b><br/>AB<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=136380418">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-113.116555,53.42797,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coutts/Ross International Airport</name>
+      <description><![CDATA[<b>Coutts/Ross International Airport</b><br/>AB<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=648">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-111.9669444,49,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edmonton International Airport</name>
+      <description><![CDATA[<b>Edmonton International Airport</b><br/>100-1727 35th Avenue East, Edmonton International Airport, AB T9E 0V6<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><b>Hours</b><br/>Travellers: 7 days per week 24h<br/><br/>Telephone reporting: 1-888-226-7277<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=637">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-113.583768,53.308035,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lethbridge Airport</name>
+      <description><![CDATA[<b>Lethbridge Airport</b><br/>AB<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=651">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-112.787895,49.633739,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Milk River Airport</name>
+      <description><![CDATA[<b>Milk River Airport</b><br/>AB<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=644">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-112.05,49.1333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ponoka Airport</name>
+      <description><![CDATA[<b>Ponoka Airport</b><br/>AB<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=640">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-113.6,52.65,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Villeneuve Airport (Edmonton)</name>
+      <description><![CDATA[<b>Villeneuve Airport (Edmonton)</b><br/>AB<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=136347652">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-113.8522,53.6683,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Whetstone International Airport (Del Bonita)</name>
+      <description><![CDATA[<b>Whetstone International Airport (Del Bonita)</b><br/>AB<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=656">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-112.787468,48.998296,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abbotsford International Airport</name>
+      <description><![CDATA[<b>Abbotsford International Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/>AOE/SEASONAL: all aircraft, seasonal hours<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=403">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-122.3807712017,49.022713177,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Atlin Airport</name>
+      <description><![CDATA[<b>Atlin Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=514">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-133.669581,59.581133,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bedwell Harbour</name>
+      <description><![CDATA[<b>Bedwell Harbour</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=492">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-123.2275,48.7466667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boundary Bay Airport</name>
+      <description><![CDATA[<b>Boundary Bay Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=402">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-123.01089,49.080275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brechin Point Seaplane</name>
+      <description><![CDATA[<b>Brechin Point Seaplane</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1208">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-123.9502132,49.1898404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Campbell River Airport</name>
+      <description><![CDATA[<b>Campbell River Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=501">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-125.2704138323,49.9522926566,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Castlegar Airport</name>
+      <description><![CDATA[<b>Castlegar Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=557">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-117.6336,49.2969,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Comox Valley Airport</name>
+      <description><![CDATA[<b>Comox Valley Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/>AOE/SEASONAL: all aircraft, seasonal hours<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1498">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-124.9078369,49.7060877,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Courtenay Airpark</name>
+      <description><![CDATA[<b>Courtenay Airpark</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=487">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-124.984417,49.681069,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Courtenay Seaplane Landing</name>
+      <description><![CDATA[<b>Courtenay Seaplane Landing</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/CAN/SEAPL: seaplane, CANPASS members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=488">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-124.97901,49.681736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cranbrook CBSA Office / Cranbrook Airport</name>
+      <description><![CDATA[<b>Cranbrook CBSA Office / Cranbrook Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=525">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-115.786543,49.614435,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Creston Airport</name>
+      <description><![CDATA[<b>Creston Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=546">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-116.491209,49.035923,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Duncan Airport</name>
+      <description><![CDATA[<b>Duncan Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=455">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-123.711767,48.7559471,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eckhart Airport</name>
+      <description><![CDATA[<b>Eckhart Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=548">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-116.500729,49.001379,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fort Langley River Landing</name>
+      <description><![CDATA[<b>Fort Langley River Landing</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/CAN/SEAPL: seaplane, CANPASS members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1327">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-122.5562458246,49.1668351488,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand Forks Airport</name>
+      <description><![CDATA[<b>Grand Forks Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=535">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-118.4283,49.0161,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kamloops Airport</name>
+      <description><![CDATA[<b>Kamloops Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=530">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-120.441944,50.702222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kamloops Seaplanes</name>
+      <description><![CDATA[<b>Kamloops Seaplanes</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=531">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-120.44188229,50.7054499354,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kelowna International Airport</name>
+      <description><![CDATA[<b>Kelowna International Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=551">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-119.379007,49.956964,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Langley Airport</name>
+      <description><![CDATA[<b>Langley Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=399">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-122.6248831035,49.101121203,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nanaimo Airport</name>
+      <description><![CDATA[<b>Nanaimo Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=411">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-123.870551,49.051796,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Patricia Bay Floats</name>
+      <description><![CDATA[<b>Patricia Bay Floats</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1513">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-123.447104,48.653268,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Penticton Airport</name>
+      <description><![CDATA[<b>Penticton Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=527">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-119.605389,49.457479,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pitt Meadows Airport (CYPK)</name>
+      <description><![CDATA[<b>Pitt Meadows Airport</b> (CYPK)<br/>100 - 18799 Airport Way, Pitt Meadows, BC V3Y 0A7<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval (clearance limit 15)<br/><br/><b>Hours</b><br/>Travellers: 7 days per week 24h<br/><br/>Telephone reporting: 1-888-226-7277<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=371">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-122.7041916728,49.2105088855,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port Hardy Airport</name>
+      <description><![CDATA[<b>Port Hardy Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=505">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-127.369376,50.680746,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prince George Airport</name>
+      <description><![CDATA[<b>Prince George Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=539">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-122.672379,53.887877,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prince Rupert Airport</name>
+      <description><![CDATA[<b>Prince Rupert Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=438">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-130.4462804226,54.2918053595,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Seal Cove</name>
+      <description><![CDATA[<b>Seal Cove</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=449">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-130.281265,54.330377,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Spit(Corilair)</name>
+      <description><![CDATA[<b>The Spit(Corilair)</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=502">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-125.254318,50.047185,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trail Airport</name>
+      <description><![CDATA[<b>Trail Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=558">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-117.6074,49.0578,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vancouver Harbour Flight Centre</name>
+      <description><![CDATA[<b>Vancouver Harbour Flight Centre</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=316">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-123.11765,49.29053,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vancouver International Airport Passenger Operations</name>
+      <description><![CDATA[<b>Vancouver International Airport Passenger Operations</b><br/>BC<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=395">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-123.168283,49.192755,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vancouver International Airport River Landing Site</name>
+      <description><![CDATA[<b>Vancouver International Airport River Landing Site</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1505">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-123.1680479,49.1917065,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vancouver International Airport Small Aircraft Reporting Station</name>
+      <description><![CDATA[<b>Vancouver International Airport Small Aircraft Reporting Station</b><br/>BC<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=397">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-123.168068,49.192586,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Victoria Inner Harbour CBSA Seaplane Terminal</name>
+      <description><![CDATA[<b>Victoria Inner Harbour CBSA Seaplane Terminal</b><br/>BC<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1563">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-123.3697267,48.4243759,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Victoria International Airport</name>
+      <description><![CDATA[<b>Victoria International Airport</b><br/>BC<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=491">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-123.432083,48.640594,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brandon Municipal Airport</name>
+      <description><![CDATA[<b>Brandon Municipal Airport</b><br/>MB<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=587">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-99.945536,49.90472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>International Peace Garden Airport Boissevain</name>
+      <description><![CDATA[<b>International Peace Garden Airport Boissevain</b><br/>MB<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=586">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-100.0434589,48.9977819,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Morden Regional Airport</name>
+      <description><![CDATA[<b>Morden Regional Airport</b><br/>MB<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=137035776">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-98.05503,49.20871,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Winkler Municipal Airport</name>
+      <description><![CDATA[<b>Winkler Municipal Airport</b><br/>MB<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=597">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-97.930483,49.170235,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Winnipeg James Armstrong Richardson International Airport</name>
+      <description><![CDATA[<b>Winnipeg James Armstrong Richardson International Airport</b><br/>MB<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=569">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-97.223382,49.905857,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bathurst Regional Airport</name>
+      <description><![CDATA[<b>Bathurst Regional Airport</b><br/>NB<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=136478721">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-65.743568,47.631581,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charlo Airport</name>
+      <description><![CDATA[<b>Charlo Airport</b><br/>NB<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1226">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-66.331329,47.996585,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edmundston Airport</name>
+      <description><![CDATA[<b>Edmundston Airport</b><br/>NB<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=71">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-68.480596,47.488698,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Florenceville Airport</name>
+      <description><![CDATA[<b>Florenceville Airport</b><br/>NB<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=102">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-67.626867,46.433362,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fosterville</name>
+      <description><![CDATA[<b>Fosterville</b><br/>NB<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=96">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-67.780538,45.816777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fredericton International Airport</name>
+      <description><![CDATA[<b>Fredericton International Airport</b><br/>NB<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=86">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-66.530006,45.873532,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand Falls Airport</name>
+      <description><![CDATA[<b>Grand Falls Airport</b><br/>NB<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1506">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-67.6799117,47.0730047,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand Manan Airport</name>
+      <description><![CDATA[<b>Grand Manan Airport</b><br/>NB<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=130">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-66.8005,44.71492,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Greater Moncton Romeo Leblanc International Airport</name>
+      <description><![CDATA[<b>Greater Moncton Romeo Leblanc International Airport</b><br/>NB<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=114">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-64.687613,46.114885,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint John Airport</name>
+      <description><![CDATA[<b>Saint John Airport</b><br/>NB<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=121">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-65.8902,45.32948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Leonard</name>
+      <description><![CDATA[<b>St. Leonard</b><br/>NB<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=81">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-67.92881,47.159256,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Stephen Airport</name>
+      <description><![CDATA[<b>St. Stephen Airport</b><br/>NB<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=124">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-67.2505556,45.2075,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Deer Lake Regional Airport</name>
+      <description><![CDATA[<b>Deer Lake Regional Airport</b><br/>NL<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1539">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-57.398324,49.210496,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gander CBSA Office/Gander International Airport</name>
+      <description><![CDATA[<b>Gander CBSA Office/Gander International Airport</b><br/>NL<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=45">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-54.575273,48.946691,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Goose Bay Airport</name>
+      <description><![CDATA[<b>Goose Bay Airport</b><br/>NL<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=47">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-60.414184,53.314036,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Goose Bay Otter Creek</name>
+      <description><![CDATA[<b>Goose Bay Otter Creek</b><br/>NL<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=48">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-60.412,53.352378,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. John's International Airport</name>
+      <description><![CDATA[<b>St. John's International Airport</b><br/>NL<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=50">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-52.743186,47.613111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stephenville Dymond International Airport</name>
+      <description><![CDATA[<b>Stephenville Dymond International Airport</b><br/>NL<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=63">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-58.563252,48.54598,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Winterland/Marystown Airport</name>
+      <description><![CDATA[<b>Winterland/Marystown Airport</b><br/>NL<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=66">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-55.324165,47.135499,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Debert Airport</name>
+      <description><![CDATA[<b>Debert Airport</b><br/>NS<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1559">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-63.4682492,45.4210148,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Digby Airport</name>
+      <description><![CDATA[<b>Digby Airport</b><br/>NS<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=38">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-65.784695,44.546778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fox Harbour Airport</name>
+      <description><![CDATA[<b>Fox Harbour Airport</b><br/>NS<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1501">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-63.461111,45.87,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Halifax Stanfield International Airport</name>
+      <description><![CDATA[<b>Halifax Stanfield International Airport</b><br/>NS<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=4">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-63.51357,44.88287,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JA Douglas McCurdy Sydney Airport</name>
+      <description><![CDATA[<b>JA Douglas McCurdy Sydney Airport</b><br/>NS<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=32">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-60.047777,46.161389,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port Hawkesbury Airport</name>
+      <description><![CDATA[<b>Port Hawkesbury Airport</b><br/>NS<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1560">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-61.368396,45.656497,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sydney Harbour (Seaplanes)</name>
+      <description><![CDATA[<b>Sydney Harbour (Seaplanes)</b><br/>NS<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=33">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-60.19723,46.14068,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trenton Municipal Airport</name>
+      <description><![CDATA[<b>Trenton Municipal Airport</b><br/>NS<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=17">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-62.623637,45.613152,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yarmouth Airport</name>
+      <description><![CDATA[<b>Yarmouth Airport</b><br/>NS<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=37">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-66.0880556,43.8269444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Inuvik (Shell Lake) Seaplanes</name>
+      <description><![CDATA[<b>Inuvik (Shell Lake) Seaplanes</b><br/>NT<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=574">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-133.62369,68.32478,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Inuvik Mike Zubko Airport</name>
+      <description><![CDATA[<b>Inuvik Mike Zubko Airport</b><br/>NT<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=573">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-133.4938889,68.3063889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tuktoyaktuk James Gruben Airport</name>
+      <description><![CDATA[<b>Tuktoyaktuk James Gruben Airport</b><br/>NT<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=576">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-133.0327778,69.4333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yellowknife Airport (CYZF)</name>
+      <description><![CDATA[<b>Yellowknife Airport</b> (CYZF)<br/>#1 Yellowknife Airport, Yellowknife, NT X1A 2N2<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval (clearance limit 15)<br/><br/><b>Hours</b><br/>Travellers: Monday to Friday
+(except Holidays) 09:00-17:00<br/><br/>Telephone reporting: 1-888-226-7277<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1474">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-114.3717886,62.4539717,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Iqaluit Airport</name>
+      <description><![CDATA[<b>Iqaluit Airport</b><br/>NU<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=151">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-68.5561111,63.7566667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arnprior/South Renfrew Municipal Airport</name>
+      <description><![CDATA[<b>Arnprior/South Renfrew Municipal Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=165">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-76.365487,45.413754,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Billy Bishop Toronto City Airport</name>
+      <description><![CDATA[<b>Billy Bishop Toronto City Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=812">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-79.397271,43.634307,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brampton Flying Club</name>
+      <description><![CDATA[<b>Brampton Flying Club</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=800">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-79.906613,43.776832,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brantford Airport</name>
+      <description><![CDATA[<b>Brantford Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1145">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-80.3401581,43.1289382,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brockville - Thousand Islands Regional Tackaberry Airport</name>
+      <description><![CDATA[<b>Brockville - Thousand Islands Regional Tackaberry Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=190">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-75.744787,44.637557,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brockville Blockhouse Island</name>
+      <description><![CDATA[<b>Brockville Blockhouse Island</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=191">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-75.681167,44.587639,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burlington Airpark</name>
+      <description><![CDATA[<b>Burlington Airpark</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1043">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-79.8495107,43.4423173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Canadian Bushplane Heritage Centre(Seaplanes)</name>
+      <description><![CDATA[<b>Canadian Bushplane Heritage Centre(Seaplanes)</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=264">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-84.32377,46.5048,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carp Airport</name>
+      <description><![CDATA[<b>Carp Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=163">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-76.019221,45.318538,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centralia/Huron Airpark</name>
+      <description><![CDATA[<b>Centralia/Huron Airpark</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1324">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-81.503035,43.2900028,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chatham Airport</name>
+      <description><![CDATA[<b>Chatham Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=993">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-82.074461,42.314806,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Collingwood Regional Airport</name>
+      <description><![CDATA[<b>Collingwood Regional Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=881">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-80.165863,44.454982,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cornwall Regional Airport</name>
+      <description><![CDATA[<b>Cornwall Regional Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=134">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-74.565416,45.091142,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cyclone Island</name>
+      <description><![CDATA[<b>Cyclone Island</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1445">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-94.852528,49.328451,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fort Frances Airport</name>
+      <description><![CDATA[<b>Fort Frances Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=302">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-93.439722,48.654167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gananoque Airport</name>
+      <description><![CDATA[<b>Gananoque Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=224">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-76.244202,44.401901,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gananoque Municipal Marina</name>
+      <description><![CDATA[<b>Gananoque Municipal Marina</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=226">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-76.164417,44.324167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gananoque River P.U.C. Day Dock</name>
+      <description><![CDATA[<b>Gananoque River P.U.C. Day Dock</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=225">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-76.159801,44.32612,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Goderich Airport</name>
+      <description><![CDATA[<b>Goderich Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1136">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-81.7115123,43.7615789,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Goderich Harbour (Seaplanes)</name>
+      <description><![CDATA[<b>Goderich Harbour (Seaplanes)</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1135">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-81.7224262,43.7433797,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gore Bay Airport</name>
+      <description><![CDATA[<b>Gore Bay Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=265">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-82.56779,45.885276,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gore Bay Dock Manitoulin Island</name>
+      <description><![CDATA[<b>Gore Bay Dock Manitoulin Island</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=287">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-82.462417,45.919583,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grimsby Airpark</name>
+      <description><![CDATA[<b>Grimsby Airpark</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1044">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-79.7928198,43.195666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Guelph Airport (Air Park)</name>
+      <description><![CDATA[<b>Guelph Airport (Air Park)</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1148">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-80.1975955,43.5650594,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hamilton CBSA Office/John C. Munro Hamilton International Airport</name>
+      <description><![CDATA[<b>Hamilton CBSA Office/John C. Munro Hamilton International Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1041">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-79.926712,43.163357,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Huronia/Midland Airport</name>
+      <description><![CDATA[<b>Huronia/Midland Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=869">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-79.9665,44.731339,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kenora Airport</name>
+      <description><![CDATA[<b>Kenora Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=310">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-94.36277,49.7885,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kenora City Dock</name>
+      <description><![CDATA[<b>Kenora City Dock</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=311">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-94.492752,49.767254,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kincardine Town &amp; Township Airport</name>
+      <description><![CDATA[<b>Kincardine Town &amp; Township Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1138">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-81.5966893,44.1988028,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kingston/Norman Rogers Airport</name>
+      <description><![CDATA[<b>Kingston/Norman Rogers Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=172">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-76.597545,44.21875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kitchener-Waterloo International Airport (Region of)</name>
+      <description><![CDATA[<b>Kitchener-Waterloo International Airport (Region of)</b><br/>ON<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1131">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-80.385858,43.455964,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake Simcoe Regional Airport</name>
+      <description><![CDATA[<b>Lake Simcoe Regional Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=859">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-79.541599,44.487533,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lakehead Aviation (Seaplanes)</name>
+      <description><![CDATA[<b>Lakehead Aviation (Seaplanes)</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=297">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-89.1762,48.4554,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leamington Airport Limited</name>
+      <description><![CDATA[<b>Leamington Airport Limited</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=910">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-82.527586,42.031136,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lindsay Airport</name>
+      <description><![CDATA[<b>Lindsay Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=170">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-78.7838889,44.3647222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>London CBSA Office/London International Airport</name>
+      <description><![CDATA[<b>London CBSA Office/London International Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=988">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-81.153735,43.024209,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Manitoulin East Municipal Airport (Manitowaning)</name>
+      <description><![CDATA[<b>Manitoulin East Municipal Airport (Manitowaning)</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=266">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-81.857901,45.841695,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Muskoka Airport</name>
+      <description><![CDATA[<b>Muskoka Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=883">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-79.307432,44.968558,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Niagara District Airport</name>
+      <description><![CDATA[<b>Niagara District Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1025">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-79.171473,43.188854,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Bay CBSA Office/Jack Garland Airport</name>
+      <description><![CDATA[<b>North Bay CBSA Office/Jack Garland Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=255">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-79.42858,46.357819,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orillia/Lake St. John (Seaplanes)</name>
+      <description><![CDATA[<b>Orillia/Lake St. John (Seaplanes)</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1441">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-79.307535,44.681607,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oshawa Executive Airport</name>
+      <description><![CDATA[<b>Oshawa Executive Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=844">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-78.897028,43.927695,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ottawa Macdonald-Cartier International Airport</name>
+      <description><![CDATA[<b>Ottawa Macdonald-Cartier International Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=155">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-75.665885,45.317843,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Owen Sound Billy Bishop Regional Airport</name>
+      <description><![CDATA[<b>Owen Sound Billy Bishop Regional Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=885">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-80.817306,44.585411,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parry Sound Area Municipal Airport</name>
+      <description><![CDATA[<b>Parry Sound Area Municipal Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/>AOE/CAN/SEAPL: seaplane, CANPASS members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=136380417">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-79.827329,45.252907,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pelee Island Airport</name>
+      <description><![CDATA[<b>Pelee Island Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=909">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-82.678514,41.780673,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peterborough Airport</name>
+      <description><![CDATA[<b>Peterborough Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=167">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-78.355317,44.239609,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port Elgin Airport</name>
+      <description><![CDATA[<b>Port Elgin Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=889">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-81.414528,44.415268,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rainy Lake Sports</name>
+      <description><![CDATA[<b>Rainy Lake Sports</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1328">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-93.368529,48.612612,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rainy River (Seaplanes)</name>
+      <description><![CDATA[<b>Rainy River (Seaplanes)</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1446">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-94.587548,48.719329,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rockcliffe Airport</name>
+      <description><![CDATA[<b>Rockcliffe Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=162">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-75.645717,45.46218,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sand Point Lake</name>
+      <description><![CDATA[<b>Sand Point Lake</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=303">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-92.452622,48.341319,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sarnia Chris Hadfield Airport</name>
+      <description><![CDATA[<b>Sarnia Chris Hadfield Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=965">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-82.3210899,42.941143,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saugeen Municipal Airport</name>
+      <description><![CDATA[<b>Saugeen Municipal Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1137">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-81.0600442,44.162967,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sault Ste. Marie Airport</name>
+      <description><![CDATA[<b>Sault Ste. Marie Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=263">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-84.5094,46.485,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Smiths Falls/Montague Airport</name>
+      <description><![CDATA[<b>Smiths Falls/Montague Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=157">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-75.936505,44.950085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Springer Aerospace</name>
+      <description><![CDATA[<b>Springer Aerospace</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/>AOE/CAN/SEAPL: seaplane, CANPASS members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=136544259">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-84.095206,46.425225,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Thomas Municipal Airport</name>
+      <description><![CDATA[<b>St. Thomas Municipal Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=996">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-81.101305,42.777721,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stratford Municipal Airport</name>
+      <description><![CDATA[<b>Stratford Municipal Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1141">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-80.934134,43.417206,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sudbury Airport</name>
+      <description><![CDATA[<b>Sudbury Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=289">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-80.798154,46.626834,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thunder Bay International Airport</name>
+      <description><![CDATA[<b>Thunder Bay International Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=296">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-89.321198,48.373031,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tillsonburg Airport</name>
+      <description><![CDATA[<b>Tillsonburg Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=998">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-80.74801,42.925069,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toronto Lester B. Pearson International Airport - Terminal I</name>
+      <description><![CDATA[<b>Toronto Lester B. Pearson International Airport - Terminal I</b><br/>ON<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=853">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-79.612341,43.685315,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toronto Lester B. Pearson International Airport - Terminal III</name>
+      <description><![CDATA[<b>Toronto Lester B. Pearson International Airport - Terminal III</b><br/>ON<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=855">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-79.620924,43.68606,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Welland Airport</name>
+      <description><![CDATA[<b>Welland Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1004">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-79.325686,42.972488,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wiarton (Keppel) Airport</name>
+      <description><![CDATA[<b>Wiarton (Keppel) Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=886">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-81.111386,44.750576,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wiarton (Keppel) Seaplane Landing</name>
+      <description><![CDATA[<b>Wiarton (Keppel) Seaplane Landing</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=887">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-81.116223,44.750848,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Windsor Airport</name>
+      <description><![CDATA[<b>Windsor Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=908">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-82.996378,42.246679,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wingham Municipal Airport</name>
+      <description><![CDATA[<b>Wingham Municipal Airport</b><br/>ON<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1133">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-81.2986,43.8675,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charlottetown Airport</name>
+      <description><![CDATA[<b>Charlottetown Airport</b><br/>PE<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=104">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-63.125703,46.289219,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charlottetown Marine Terminal</name>
+      <description><![CDATA[<b>Charlottetown Marine Terminal</b><br/>PE<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=105">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-63.11868,46.23372,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Summerside Airport</name>
+      <description><![CDATA[<b>Summerside Airport</b><br/>PE<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=111">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-63.833141,46.437857,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aéroport régional André-Fortin de Victoriaville</name>
+      <description><![CDATA[<b>Aéroport régional André-Fortin de Victoriaville</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=136839169">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-71.92588,46.11362,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baie-Comeau Pointe Lebel Airport</name>
+      <description><![CDATA[<b>Baie-Comeau Pointe Lebel Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=704">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-68.197323,49.132911,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bromont Airport</name>
+      <description><![CDATA[<b>Bromont Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=745">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-72.744655,45.288142,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charlevoix Airport</name>
+      <description><![CDATA[<b>Charlevoix Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=668">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-70.233579,47.599812,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Drummondville Airport</name>
+      <description><![CDATA[<b>Drummondville Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=740">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-72.393981,45.8466,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gaspe Airport</name>
+      <description><![CDATA[<b>Gaspe Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=698">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-64.47867,48.775245,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gatineau Seaplane Airport</name>
+      <description><![CDATA[<b>Gatineau Seaplane Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/CAN/SEAPL: seaplane, CANPASS members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=161">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-76.20809,45.68354,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gatineau-Ottawa Executive Airport</name>
+      <description><![CDATA[<b>Gatineau-Ottawa Executive Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=160">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-75.563614,45.517748,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Iles-de-la-Madeleine Airport</name>
+      <description><![CDATA[<b>Iles-de-la-Madeleine Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=669">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-61.780876,47.424263,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jean Lesage International Airport</name>
+      <description><![CDATA[<b>Jean Lesage International Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=666">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-71.376801,46.796123,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Macaza - Mont Tremblant International</name>
+      <description><![CDATA[<b>La Macaza - Mont Tremblant International</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=1221">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-74.780309,46.409487,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lac-des-Rapides</name>
+      <description><![CDATA[<b>Lac-des-Rapides</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=710">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-66.4143,50.299024,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lachute Airport</name>
+      <description><![CDATA[<b>Lachute Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=788">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-74.362712,45.6387742,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montreal St-Hubert Longueuil Airport</name>
+      <description><![CDATA[<b>Montreal St-Hubert Longueuil Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=777">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-73.4090085503,45.5145249625,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montreal-Mirabel International Airport</name>
+      <description><![CDATA[<b>Montreal-Mirabel International Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=783">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-74.050357,45.676244,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montreal-Pierre Elliott Trudeau International Airport</name>
+      <description><![CDATA[<b>Montreal-Pierre Elliott Trudeau International Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=781">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-73.7508919,45.4578596,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quai Richelieu</name>
+      <description><![CDATA[<b>Quai Richelieu</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=730">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-73.351268,45.030019,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saguenay-Bagotville Airport</name>
+      <description><![CDATA[<b>Saguenay-Bagotville Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=662">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-70.99119,48.3408,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sept-Iles Airport</name>
+      <description><![CDATA[<b>Sept-Iles Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=708">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-66.265556,50.223333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sherbrooke Airport</name>
+      <description><![CDATA[<b>Sherbrooke Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=759">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-71.689348,45.441534,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trois-Rivières Airport</name>
+      <description><![CDATA[<b>Trois-Rivières Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=678">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-72.676191,46.362707,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ville St-Georges Airport</name>
+      <description><![CDATA[<b>Ville St-Georges Airport</b><br/>QC<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=687">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-70.712502,46.0975,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estevan Airport</name>
+      <description><![CDATA[<b>Estevan Airport</b><br/>SK<br/><br/><b>Designation</b><br/>AOE/CAN: CANPASS private/corporate members only<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=618">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-102.965047,49.205016,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Regina International Airport</name>
+      <description><![CDATA[<b>Regina International Airport</b><br/>SK<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=606">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-104.6559860317,50.4338418165,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saskatoon John G. Diefenbaker International Airport</name>
+      <description><![CDATA[<b>Saskatoon John G. Diefenbaker International Airport</b><br/>SK<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=612">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-106.6909711811,52.1697505256,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Scobey Border Station Airport (Coronach)</name>
+      <description><![CDATA[<b>Scobey Border Station Airport (Coronach)</b><br/>SK<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=623">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-105.3988889,49,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beaver Creek Airport</name>
+      <description><![CDATA[<b>Beaver Creek Airport</b><br/>YT<br/><br/><b>Designation</b><br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=520">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-140.86304,62.40746,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dawson City Airport</name>
+      <description><![CDATA[<b>Dawson City Airport</b><br/>YT<br/><br/><b>Designation</b><br/>AOE/SEASONAL: all aircraft, seasonal hours<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=523">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-139.13,64.04222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dawson City Yukon River Landing</name>
+      <description><![CDATA[<b>Dawson City Yukon River Landing</b><br/>YT<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=522">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-139.434786,64.063783,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Erik Nielsen Whitehorse International Airport</name>
+      <description><![CDATA[<b>Erik Nielsen Whitehorse International Airport</b><br/>YT<br/><br/><b>Designation</b><br/>AOE: all scheduled/unscheduled aircraft<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=511">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-135.068352,60.709652,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Old Crow Airport</name>
+      <description><![CDATA[<b>Old Crow Airport</b><br/>YT<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/>AOE/15: general aviation, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=524">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-139.846852,67.567938,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Schwatka Lake</name>
+      <description><![CDATA[<b>Schwatka Lake</b><br/>YT<br/><br/><b>Designation</b><br/>AOE/15/SEAPL: seaplane, unscheduled, ≤15 incl crew, prior CBSA approval<br/><br/><a href="https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA&amp;id=512">CBSA office page</a>]]></description>
+      <Point>
+        <coordinates>-135.039654,60.692049,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
