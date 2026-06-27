@@ -43,7 +43,7 @@ DOC_NAME = "CBP GA Airport Fact Sheet"  # display name shown in ForeFlight
 FACTSHEET_LAYER = "CBP Fact Sheet Airports.kml"
 
 # Canada AOE layer (no attachments) bundled alongside; produced by cbsa-aoe.py.
-CANADA_SRC = "CA_AOE.kml"
+CANADA_SRC = "build/CA_AOE.kml"
 CANADA_LAYER = "Canada Airports of Entry.kml"
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "

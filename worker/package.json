@@ -1,0 +1,22 @@
+{
+  "name": "na-aoe-pack-worker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloudflare Worker that keeps the CBP/CBSA ForeFlight content pack up to date and serves it from R2.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "client-zip": "^2.5.0",
+    "qrcode-generator": "^1.4.4"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240620.0",
+    "@types/qrcode-generator": "^1.0.6",
+    "typescript": "^5.5.0",
+    "wrangler": "^3.114.0"
+  }
+}

@@ -16,10 +16,11 @@ always confirm against CBP before flying.
 """
 
 import csv
+import os
 import xml.etree.ElementTree as ET
 
 DATA_DIR = "data/us/faa/nasr"
-OUTPUT = "US_AOE.kml"
+OUTPUT = "build/US_AOE.kml"  # gitignored build dir
 
 # Customs designations a pilot can use to clear into the U.S., mapped to a note.
 # Keyed by the NASR column whose value is "Y".
@@ -68,6 +69,7 @@ def main():
 
     tree = ET.ElementTree(kml)
     ET.indent(tree)
+    os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
     tree.write(OUTPUT, xml_declaration=True, encoding="UTF-8")
     print(f"Wrote {len(airports)} U.S. AOE airports to {OUTPUT}")
 

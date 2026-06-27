@@ -28,7 +28,7 @@ API_BASE = "https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/api/"
 HOME = "https://do-rb.cbsa-asfc.cloud-nuage.canada.ca/?lang=en_CA"
 CACHE = "data/ca/cbsa/initial-load.json"
 DETAIL_DIR = "data/ca/cbsa/offices"
-OUTPUT = "CA_AOE.kml"
+OUTPUT = "build/CA_AOE.kml"  # gitignored build dir; seed input for the worker
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -295,6 +295,7 @@ def main():
     xml = ET.tostring(kml, encoding="unicode")
     for token, html in descriptions.items():
         xml = xml.replace(token, f"<![CDATA[{html}]]>")
+    os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
     with open(OUTPUT, "w", encoding="utf-8") as f:
         f.write("<?xml version='1.0' encoding='UTF-8'?>\n")
         f.write(xml)

@@ -2,10 +2,11 @@
 """Generate a KML file of FAA airports that support PDC (Pre-Departure Clearance)."""
 
 import csv
+import os
 import xml.etree.ElementTree as ET
 
 DATA_DIR = "data/us/faa/nasr"
-OUTPUT = "PDC.kml"
+OUTPUT = "build/PDC.kml"  # gitignored build dir
 
 # Load PDC airport SITE_NOs from ATC_SVC
 pdc_sites = set()
@@ -46,5 +47,6 @@ for apt in sorted(airports, key=lambda a: a["id"]):
 
 tree = ET.ElementTree(kml)
 ET.indent(tree)
+os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
 tree.write(OUTPUT, xml_declaration=True, encoding="UTF-8")
 print(f"Wrote {len(airports)} PDC airports to {OUTPUT}")

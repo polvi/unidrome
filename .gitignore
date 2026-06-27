@@ -9,3 +9,7 @@
 *.gpkg
 __pycache__
 .aider*
+.wrangler
+node_modules
+cache
+build

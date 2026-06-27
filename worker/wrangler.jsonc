@@ -1,0 +1,46 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "content-pack",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-06-01",
+
+  // Serve at the custom domain (provisions DNS + cert; barbless.net must be a
+  // zone on this Cloudflare account).
+  "routes": [
+    { "pattern": "content-pack.barbless.net", "custom_domain": true }
+  ],
+
+  // Daily check of dynamic packs (09:00 UTC).
+  "triggers": {
+    "crons": ["0 9 * * *"]
+  },
+
+  // Refreshing many PDFs + streaming large zips needs headroom.
+  "limits": {
+    "cpu_ms": 300000
+  },
+
+  // One R2 bucket holds every pack (packs/<id>/...), state, and seed inputs.
+  "r2_buckets": [
+    {
+      "binding": "PACK",
+      "bucket_name": "content-packs"
+    }
+  ],
+
+  // Per-pack download counter (atomic increments).
+  "durable_objects": {
+    "bindings": [{ "name": "COUNTER", "class_name": "Counter" }]
+  },
+  "migrations": [
+    { "tag": "v1", "new_sqlite_classes": ["Counter"] }
+  ],
+
+  "vars": {
+    "USER_AGENT": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  },
+
+  "observability": {
+    "enabled": true
+  }
+}
