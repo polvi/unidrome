@@ -108,8 +108,8 @@ export function renderIndex(origin: string, packs: PackView[]): string {
         <li>Tap the blue download arrow <span class="arrow">↓</span> next to the pack to install.</li>
       </ol>
       <h2 style="margin-top:1.25rem">Update</h2>
-      <p class="note">These packs update themselves automatically. To pull the latest into an
-      already-installed pack, open <b>Custom Content</b> and tap the blue arrow
+      <p class="note">These packs update when you delete and re-add them. To pull the latest into an
+      already-installed pack, open <b>Custom Content</b>, swipe left on the pack, press delete, then scroll to the bottom of the content pack list and tap the blue arrow
       <span class="arrow">↓</span> again — see the clip.</p>
     </div>
     <figure class="video">
